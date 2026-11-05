@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 2f1f5c4e-5104-4bda-9355-faee92117f72
+      url: https://gentle-moonbeam-42d877.netlify.app

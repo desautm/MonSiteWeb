@@ -29,5 +29,6 @@ format:
     toc: true
     lang: fr
 
-
+execute:
+  freeze: auto
 
