@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Marc-André Désautels"
-  site-url: https://example.com
+  site-url: https://mdesautels.netlify.app/
   navbar:
     logo-href: about.qmd
     left:
