@@ -1,0 +1,10 @@
+---
+title: "Projets"
+listing: 
+    contents: "projets"
+    sort:
+    - "date desc"
+---
+
+:::{#projets}
+:::

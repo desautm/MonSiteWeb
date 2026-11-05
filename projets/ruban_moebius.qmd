@@ -1,0 +1,21 @@
+---
+title: "Le ruban de Moebius"
+date: "2019-04-03"
+date-format: "YYYY-MM-DD"
+id: "presentations"
+author: "Marc-André Désautels"
+description: "Une présentation de niveau primaire du ruban de Moebius."
+image: "../images/moebius.jpg"
+---
+
+:::{.center}
+![Le ruban de Moebius](../images/moebius.jpg){width=50%}
+:::
+
+Voici les documents utilisés dans la présentation sur le ruban de Moebius:
+
+- La [présentation sous format PowerPoint](/fichiers/ruban_mobius.pptx).
+
+- La [présentation sous format PDF](/fichiers/ruban_mobius_presentation.pdf).
+
+- Le [document sous format PDF](/fichiers/ruban_mobius_document.pdf) utilisé pour construire le ruban de Moebius.

@@ -1,0 +1,21 @@
+---
+title: "La formule des lacets de souliers"
+date: "2024-02-01"
+date-format: "YYYY-MM-DD"
+id: "presentations"
+author: "Marc-André Désautels"
+description: "La formule des lacets de souliers"
+image: "../images/formule_lacets_souliers.jpeg"
+---
+
+:::{.center}
+![La formule des lacets de souliers](../images/formule_lacets_souliers.jpeg){width=50%}
+:::
+
+### Résumé
+
+Comment faire pour trouver l’aire d’un polygone simple ? Pour calculer l’aire de la figure ci-contre, où tous les sommets sont à coordonnées entières, on peut utiliser la formule de Pick. Lorsque certains des sommets ne sont pas à coordonnées entières, on a recours à la formule des lacets de souliers.
+
+[<i class="bi bi-file-pdf"></i> PDF](/articles/2024_lacets.pdf){.btn .btn-primary target="_blank"}
+
+[<i class="bi bi-easel"></i> Document source](https://accromath.uqam.ca/2024/02/la-formule-des-lacets-de-souliers/){.btn .btn-primary target="_blank"}

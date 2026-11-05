@@ -1,0 +1,15 @@
+---
+title: "1/√x, mais genre... vraiment vite"
+date: "2025-10-25"
+date-format: "YYYY-MM-DD"
+id: "presentations"
+author: "Marc-André Désautels"
+description: "Venez découvrir l’un des algorithmes les plus mythiques, mystérieux et franchement génial de l’histoire de la programmation, le Fast Inverse Square Root."
+---
+
+
+### Résumé
+
+Venez découvrir l’un des algorithmes les plus mythiques, mystérieux et franchement génial de l’histoire de la programmation, le Fast Inverse Square Root.
+
+[<i class="bi bi-easel"></i> Consulter la présentation](https://desautm.github.io/quake/#/title-slide){.btn .btn-primary target="_blank"}

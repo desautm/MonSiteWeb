@@ -1,0 +1,15 @@
+---
+title: "Trois applications méconnues pour sciences de la nature"
+date: "2014-10-04"
+date-format: "YYYY-MM-DD"
+id: "presentations"
+author: "Marc-André Désautels"
+description: "Trois applications méconnues pour sciences de la nature"
+---
+
+
+### Résumé
+
+Nous présentons trois applications méconnues pouvant être utilisées dans les cours de mathématiques obligatoires de sciences de la nature au collégial.
+
+[<i class="bi bi-easel"></i> Consulter la présentation](/fichiers/2014-trois-applications.pdf){.btn .btn-primary target="_blank"}

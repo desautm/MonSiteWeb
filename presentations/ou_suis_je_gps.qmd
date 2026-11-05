@@ -1,0 +1,15 @@
+---
+title: "Où suis-je? Le positionnement GPS dans la classe d'algèbre linéaire"
+date: "2016-10-15"
+date-format: "YYYY-MM-DD"
+id: "presentations"
+author: "Marc-André Désautels"
+description: "Où suis-je? Le positionnement GPS dans la classe d'algèbre linéaire"
+---
+
+
+### Résumé
+
+Nous présentons la théorie derrière le système GPS. Nous présentons aussi des outils pour être en mesure d’utiliser cette théorie pour créer des devoirs individualisés pour les étudiants d’un cours d’algèbre linéaire.
+
+[<i class="bi bi-easel"></i> Consulter la présentation](/fichiers/2016-gps-algebre-lineaire.pdf){.btn .btn-primary target="_blank"}

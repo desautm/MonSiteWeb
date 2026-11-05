@@ -1,0 +1,55 @@
+[
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/calcul_differentiel_2e_edition.html",
+      "/publications/calcul_integral.html"
+    ]
+  },
+  {
+    "listing": "/articles.html",
+    "items": [
+      "/articles/formule_lacets_souliers.html",
+      "/articles/bidonvilles.html",
+      "/articles/mais_ou_sont_trous_balles.html",
+      "/articles/math_alpinisme.html",
+      "/articles/formule_magique_volumes.html",
+      "/articles/char_assaut_allemand.html",
+      "/articles/chercher_trouver_aiguille_botte_foin.html",
+      "/articles/algorithme_cordic.html"
+    ]
+  },
+  {
+    "listing": "/carnet.html",
+    "items": [
+      "/carnet/package_onbabynames.html",
+      "/carnet/package_prenoms.html",
+      "/carnet/2020-09-14-les-plateformes-d-évaluation-en-ligne.html"
+    ]
+  },
+  {
+    "listing": "/presentations.html",
+    "items": [
+      "/presentations/sphincs.html",
+      "/presentations/inverse_sqrt.html",
+      "/presentations/machines_perdent_le_nord.html",
+      "/presentations/perdus_dans_espace.html",
+      "/presentations/imprimer_3d.html",
+      "/presentations/comment_gagner_argent.html",
+      "/presentations/falaise_de_la_mort.html",
+      "/presentations/trous_de_balles.html",
+      "/presentations/char_assaut_allemand.html",
+      "/presentations/chercher_trouver_botte_foin.html",
+      "/presentations/ou_suis_je_gps.html",
+      "/presentations/trois_applications_meconnues_sn.html"
+    ]
+  },
+  {
+    "listing": "/projets.html",
+    "items": [
+      "/projets/ruban_moebius.html",
+      "/projets/suite_fibonacci.html",
+      "/projets/theoreme_quatre_couleurs.html"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+---
+title: "La falaise de la mort... ou les mathématiques en alpinisme"
+date: "2020-10-10"
+date-format: "YYYY-MM-DD"
+id: "presentations"
+author: "Marc-André Désautels"
+description: "La falaise de la mort... ou les mathématiques en alpinisme"
+---
+
+
+### Résumé
+
+Les trois ~~meilleurs~~ pires films d’escalade de tous les temps sont: *Cliffhanger* (La falaise de la mort), *Vertical limit* (Limite extrême) et *Take it to the limit*. Après avoir visionné ces chef-d’oeuvres, quoi de mieux que de s’amuser à découvrir les mathématiques se cachant derrière ces films (et surtout derrière l’escalade)? Nous discuterons ensemble de deux aspects de l’alpinisme où les mathématiques ont une place prépondérante: le facteur de chute et les coinceurs mécaniques. Prérequis : Avoir visionné ces trois films avant la présentation, pour pouvoir décerner la palme du meilleur film à… Blague à part, pas besoin de les visionner, *La falaise de la mort* est **évidemment** le meilleur des trois!
+
+[<i class="bi bi-easel"></i> Consulter la présentation](https://desautm.github.io/MathAlpinisme/#1){.btn .btn-primary target="_blank"}

@@ -1,0 +1,21 @@
+---
+title: "La suite de Fibonacci"
+date: "2019-04-03"
+date-format: "YYYY-MM-DD"
+id: "presentations"
+author: "Marc-André Désautels"
+description: "Une présentation de niveau primaire de la suite de Fibonacci."
+image: "../images/fibonacci.jpg"
+---
+
+:::{.center}
+![Fibonacci](../images/fibonacci.jpg){width=50%}
+:::
+
+Voici les documents utilisés dans la présentation sur la suite de Fibonacci:
+
+- La [présentation sous format PowerPoint](/fichiers/Nombres_Fibonacci.pptx).
+
+La [présentation sous format PDF](/fichiers/Nombres_Fibonacci.pdf).
+
+- Le [document sous format PDF](/fichiers/FibonacciEleves.pdf) utilisé pour calculer quelques termes de la suite de Fibonacci.

@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Marc-André Désautels"
+  site-url: https://example.com
+  navbar:
+    logo-href: about.qmd
+    left:
+      - text: Accueil
+        href: about.qmd
+      - articles.qmd
+      - presentations.qmd
+      - projets.qmd
+      - publications.qmd
+      - carnet.qmd
+    tools:
+      - icon: github
+        href: https://github.com/desautm
+        target: _blank
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    respect-user-color-scheme: true
+    css: styles.css
+    toc: true
+    lang: fr
+
+
+

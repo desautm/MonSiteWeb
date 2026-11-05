@@ -1,0 +1,15 @@
+---
+title: "SPHINCS+"
+date: "2026-10-16"
+date-format: "YYYY-MM-DD"
+id: "presentations"
+author: "Marc-André Désautels"
+description: "Comment vérifier qu’un document numérique provient bien de son auteur et qu’il n’a pas été modifié?"
+---
+
+
+### Résumé
+
+Comment vérifier qu’un document numérique provient bien de son auteur et qu’il n’a pas été modifié? C’est le rôle de la signature numérique, un outil essentiel à la sécurité des communications et des transactions en ligne. Or, plusieurs systèmes de signature actuels pourraient devenir vulnérables face aux futurs ordinateurs quantiques. Pour répondre à cette menace, de nouveaux schémas dits post-quantiques ont été développés, dont SPHINCS+. Cette conférence propose une introduction accessible aux signatures numériques et aux défis posés par l’informatique quantique, avant de présenter les principes fondamentaux de SPHINCS+, une solution robuste basée sur des fonctions de hachage et des arbres cryptographiques.
+
+[<i class="bi bi-easel"></i> Consulter la présentation](https://desautm.github.io/sphincs-plus/#/title-slide){.btn .btn-primary target="_blank"}

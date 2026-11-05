@@ -1,0 +1,19 @@
+---
+title: "Les mathématiques en alpinisme"
+date: "2023-09-01"
+date-format: "YYYY-MM-DD"
+id: "presentations"
+author: "Marc-André Désautels"
+description: "Les mathématiques en alpinisme"
+image: "../images/cliffhanger_movie.jpg"
+---
+
+:::{.center}
+![Les mathématiques en alpinisme](../images/cliffhanger_movie.jpg){width=50%}
+:::
+
+### Résumé
+
+Cet article décrit deux applications des équations différentielles dans le contexte de l’escalade. La première de ces applications concerne le facteur de chute, qui indique que la force ressentie par un grimpeur qui tombe, soutenu par une corde élastique, est proportionnelle au facteur de chute, c’est-à-dire au rapport entre la hauteur tombée et la longueur totale de la corde. La seconde de ces applications concerne la forme des coinceurs mécaniques (ou coinceurs à cames), qui permettent de grimper à l’aide de fissures parallèles dans la roche, sans avoir à utiliser de pitons comme ancrage. Les deux applications discutées dans cet article peuvent être introduites dans un cours de calcul intégral au niveau collégial. Elles permettent de consolider les notions de résolution d’équations différentielles et indiquent, encore une fois, l’importance des mathématiques.
+
+[<i class="bi bi-file-pdf"></i> PDF](/articles/2017-alpinisme-amq.pdf){.btn .btn-primary target="_blank"}

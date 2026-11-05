@@ -1,0 +1,324 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Calcul différentiel, 2e édition\n\n\nCalcul différentiel, 2e édition\n\n\n\n\n\n1 janv. 2016\n\n\nÉric Brunelle et Marc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nCalcul intégral\n\n\nCalcul intégral\n\n\n\n\n\n1 janv. 2016\n\n\nÉric Brunelle et Marc-André Désautels\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "publications/calcul_differentiel_2e_edition.html",
+    "href": "publications/calcul_differentiel_2e_edition.html",
+    "title": "Calcul différentiel, 2e édition",
+    "section": "",
+    "text": "Calcul différentiel, 2e édition\n\n\n\n\nRésumé\nLa 2e édition de Calcul différentiel offre une présentation claire et simplifiée des notions propres au calcul différentiel, en mettant l’accent sur les exercices et la résolution de problèmes concrets et réalistes qui mettent en lumière les liens étroits entre le calcul différentiel et les applications utilisées dans la vie de tous les jours. En faisant appel à l’intuition, à une démarche rigoureuse, à la réflexion et à des techniques de résolution éprouvées, Calcul différentiel offre aux lecteurs un environnement d’apprentissage leur permettant de comprendre et de critiquer leurs propres résultats.\n Pour vous procurer le livre\nCette nouvelle édition apporte nombre d’améliorations dont :\n\nUn contenu revu et corrigé pour le rendre plus clair et concis.\nUn premier chapitre optimisé autour des notions essentielles et de leurs applications qui fait un retour sur les contenus de base nécessaires à la compréhension des chapitres suivants.\nL’ajout d’une centaine d’exercices supplémentaires de mise en forme variés à la fin de chaque chapitre.\nL’identification du niveau de difficulté des exercices (facile, moyen et difficile).\nL’ajout d’une section sur les applications du calcul différentiel en administration.\nL’ajout d’un index des définitions, des théorèmes, des corollaires et des propositions.\nL’ajout d’activités de laboratoires pour accompagner l’apprentissage des notions (par exemple : le théorème des gendarmes; la continuité d’une fonction sur un intervalle).\nL’ajout d’exercices permettant d’introduire l’utilisation de logiciels libres, tel GeoGebra, pour faire du calcul différentiel.\n\nLa version numérique de Calcul différentiel est offerte gratuitement aux professeurs et étudiants sur MaZoneCEC, une zone multiplateformes accessible en ligne et hors ligne à partir d’un PC, d’un Mac ou des tablettes iPad et Android. Elle vous permet :\n\nde projeter et de feuilleter les pages de l’ouvrage en classe;\nd’annoter l’ouvrage au crayon et au marqueur;\nde sauvegarder vos notes personnelles;\nd’insérez vos propres liens Internet au fil des pages.\n\nElle vous donne aussi accès aux ressources complémentaires suivantes :\n\nUn test d’autoévaluation des connaissances en mathématique.\nUn solutionnaire détaillé (présenté par chapitre).\nDes exercices supplémentaires avec solutionnaire par chapitre.\nDes animations permettant de visualiser certains problèmes.\nDes problèmes à résoudre avec les logiciels Maple et Maxima.\nDes laboratoires sur l’utilisation de logiciels de calcul symbolique en calcul différentiel.\nDes laboratoires à effectuer à l’aide du logiciel Geogebra (manuel d’utilisation inclus).\n\nL’accès 1 an à la version numérique uniquement est aussi disponible pour achat en ligne."
+  },
+  {
+    "objectID": "projets/theoreme_quatre_couleurs.html",
+    "href": "projets/theoreme_quatre_couleurs.html",
+    "title": "Le théorème des quatres couleurs",
+    "section": "",
+    "text": "Le théorème des 4 couleurs\n\n\n\n\nJe veux remercier Christian Côté pour l’idée de cet atelier.\n\nVoici les documents utilisés dans la présentation sur le théorème des 4 couleurs\n\nLa présentation sous format PowerPoint.\nLa présentation sous format PDF.\nLe livret sous format PDF utilisé pour discuter du théorème des 4 couleurs. Vous n’avez qu’à le plier en deux et vous dites aux élèves de colorier la coccinnelle avec deux couleurs, la fleur à 4 pétales avec trois couleurs et la dernière fleur avec quatre couleurs.\nUne feuille sous format PDF que les élèves peuvent ramener à la maison pour tenter de la colorier en n’utilisant que quatre couleurs."
+  },
+  {
+    "objectID": "projets/ruban_moebius.html",
+    "href": "projets/ruban_moebius.html",
+    "title": "Le ruban de Moebius",
+    "section": "",
+    "text": "Le ruban de Moebius\n\n\n\nVoici les documents utilisés dans la présentation sur le ruban de Moebius:\n\nLa présentation sous format PowerPoint.\nLa présentation sous format PDF.\nLe document sous format PDF utilisé pour construire le ruban de Moebius."
+  },
+  {
+    "objectID": "presentations/trous_de_balles.html",
+    "href": "presentations/trous_de_balles.html",
+    "title": "Mais où sont les trous de balles?",
+    "section": "",
+    "text": "Résumé\nAbraham Wald, surtout connu pour son invention de l’analyse séquentielle, a été un des membres du Statistical Research Group (SRG) qui a été créé de 1942 à 1945 pour aider dans l’effort de guerre. Nous discuterons du travail de Wald concernant le biais de l’armée américaine dans certaines de ses décisions et nous discuterons de la façon dont il s’y est pris pour estimer les probabilités qu’un avion de guerre criblé de balles revienne (ou pas!) du théâtre des opérations.\n Consulter la présentation"
+  },
+  {
+    "objectID": "presentations/sphincs.html",
+    "href": "presentations/sphincs.html",
+    "title": "SPHINCS+",
+    "section": "",
+    "text": "Résumé\nComment vérifier qu’un document numérique provient bien de son auteur et qu’il n’a pas été modifié? C’est le rôle de la signature numérique, un outil essentiel à la sécurité des communications et des transactions en ligne. Or, plusieurs systèmes de signature actuels pourraient devenir vulnérables face aux futurs ordinateurs quantiques. Pour répondre à cette menace, de nouveaux schémas dits post-quantiques ont été développés, dont SPHINCS+. Cette conférence propose une introduction accessible aux signatures numériques et aux défis posés par l’informatique quantique, avant de présenter les principes fondamentaux de SPHINCS+, une solution robuste basée sur des fonctions de hachage et des arbres cryptographiques.\n Consulter la présentation"
+  },
+  {
+    "objectID": "presentations/ou_suis_je_gps.html",
+    "href": "presentations/ou_suis_je_gps.html",
+    "title": "Où suis-je? Le positionnement GPS dans la classe d’algèbre linéaire",
+    "section": "",
+    "text": "Résumé\nNous présentons la théorie derrière le système GPS. Nous présentons aussi des outils pour être en mesure d’utiliser cette théorie pour créer des devoirs individualisés pour les étudiants d’un cours d’algèbre linéaire.\n Consulter la présentation"
+  },
+  {
+    "objectID": "presentations/inverse_sqrt.html",
+    "href": "presentations/inverse_sqrt.html",
+    "title": "1/√x, mais genre… vraiment vite",
+    "section": "",
+    "text": "Résumé\nVenez découvrir l’un des algorithmes les plus mythiques, mystérieux et franchement génial de l’histoire de la programmation, le Fast Inverse Square Root.\n Consulter la présentation"
+  },
+  {
+    "objectID": "presentations/falaise_de_la_mort.html",
+    "href": "presentations/falaise_de_la_mort.html",
+    "title": "La falaise de la mort… ou les mathématiques en alpinisme",
+    "section": "",
+    "text": "Résumé\nLes trois meilleurs pires films d’escalade de tous les temps sont: Cliffhanger (La falaise de la mort), Vertical limit (Limite extrême) et Take it to the limit. Après avoir visionné ces chef-d’oeuvres, quoi de mieux que de s’amuser à découvrir les mathématiques se cachant derrière ces films (et surtout derrière l’escalade)? Nous discuterons ensemble de deux aspects de l’alpinisme où les mathématiques ont une place prépondérante: le facteur de chute et les coinceurs mécaniques. Prérequis : Avoir visionné ces trois films avant la présentation, pour pouvoir décerner la palme du meilleur film à… Blague à part, pas besoin de les visionner, La falaise de la mort est évidemment le meilleur des trois!\n Consulter la présentation"
+  },
+  {
+    "objectID": "presentations/chercher_trouver_botte_foin.html",
+    "href": "presentations/chercher_trouver_botte_foin.html",
+    "title": "Comment chercher (et trouver) une aiguille dans une botte de foin?",
+    "section": "",
+    "text": "Résumé\nLe 17 janvier 1966, suite à un accident en vol, l’armée américaine perd une bombe à hydrogène au large des côtes espagnoles, à proximité de Palomares. Le 22 mai 1968, le sous-marin nucléaire USS Scorpion est perdu en mer avec 99 marins à bord. Le 12 septembre 1857, le navire SS Central America sombre au fond de l’océan en emportant avec lui une cargaison de près de 11 tonnes d’or. Dans cet atelier, nous verrons comment il a été possible de retrouver une bombe, un sous-marin et un trésor en utilisant le théorème de Bayes.\n Consulter la présentation"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marc-André Désautels",
+    "section": "",
+    "text": "Ceci est la page d’accueil du site web de Marc-André Désautels. Vous pouvez en apprendre davantage sur lui dans la section À propos et consulter ses présentations.\nPour en savoir plus sur les sites web Quarto, visitez https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "carnet/package_prenoms.html",
+    "href": "carnet/package_prenoms.html",
+    "title": "Le package prenoms",
+    "section": "",
+    "text": "Mon premier package, prenoms, vient tout juste d’arriver sur CRAN. Le package est en fait une base de données de tous les prénoms donnés aux enfants du Québec entre 1980 et 2020.\nPour l’installer, rien de plus facile:\nCode\ninstall.packages(\"prenoms\")\nVous pouvez ensuite l’utiliser comme ceci:\nCode\nlibrary(prenoms)\nNous allons utiliser le package tidyverse pour visualiser les données:\nCode\n# install.packages(\"tidyverse\") si le package n'est pas encore installé\nlibrary(tidyverse)\nUne base de données sous la forme d’un tibble sera maintenant accessible sous le noms de prenoms.\nCode\nglimpse(prenoms)\n\n\nRows: 769,890\nColumns: 4\n$ year &lt;int&gt; 1980, 1980, 1980, 1980, 1980, 1980, 1980, 1980, 1980, 1980, 1980,…\n$ sex  &lt;chr&gt; \"F\", \"F\", \"F\", \"F\", \"F\", \"F\", \"F\", \"F\", \"F\", \"F\", \"F\", \"F\", \"F\", …\n$ name &lt;chr&gt; \"A-Catherine\", \"A-Christiane\", \"A-Fernanda\", \"A-Genevieve\", \"A Ch…\n$ n    &lt;int&gt; 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1,…\nCode\nprenoms\n\n\n# A tibble: 769,890 × 4\n    year sex   name             n\n   &lt;int&gt; &lt;chr&gt; &lt;chr&gt;        &lt;int&gt;\n 1  1980 F     A-Catherine      2\n 2  1980 F     A-Christiane     1\n 3  1980 F     A-Fernanda       1\n 4  1980 F     A-Genevieve      1\n 5  1980 F     A Charlotte      1\n 6  1980 F     A Dominique      1\n 7  1980 F     A Elisabeth      2\n 8  1980 F     A Francoise      1\n 9  1980 F     A Icha           1\n10  1980 F     A Maria          1\n# ℹ 769,880 more rows"
+  },
+  {
+    "objectID": "carnet/package_prenoms.html#les-5-prénoms-masculins-les-plus-populaires-en-2020",
+    "href": "carnet/package_prenoms.html#les-5-prénoms-masculins-les-plus-populaires-en-2020",
+    "title": "Le package prenoms",
+    "section": "Les 5 prénoms masculins les plus populaires en 2020",
+    "text": "Les 5 prénoms masculins les plus populaires en 2020\n\n\nCode\nprenoms %&gt;% \n  filter(year == 2020 & sex == \"M\") %&gt;% \n  arrange(desc(n)) %&gt;% \n  head(5)\n\n\n# A tibble: 5 × 4\n   year sex   name        n\n  &lt;int&gt; &lt;chr&gt; &lt;chr&gt;   &lt;int&gt;\n1  2020 M     Liam      661\n2  2020 M     William   644\n3  2020 M     Noah      639\n4  2020 M     Thomas    594\n5  2020 M     Leo       572"
+  },
+  {
+    "objectID": "carnet/package_prenoms.html#les-5-prénoms-féminins-les-plus-populaires-en-2020",
+    "href": "carnet/package_prenoms.html#les-5-prénoms-féminins-les-plus-populaires-en-2020",
+    "title": "Le package prenoms",
+    "section": "Les 5 prénoms féminins les plus populaires en 2020",
+    "text": "Les 5 prénoms féminins les plus populaires en 2020\n\n\nCode\nprenoms %&gt;% \n  filter(year == 2020 & sex == \"F\") %&gt;% \n  arrange(desc(n)) %&gt;% \n  head(5)\n\n\n# A tibble: 5 × 4\n   year sex   name          n\n  &lt;int&gt; &lt;chr&gt; &lt;chr&gt;     &lt;int&gt;\n1  2020 F     Olivia      543\n2  2020 F     Alice       491\n3  2020 F     Emma        491\n4  2020 F     Charlie     488\n5  2020 F     Charlotte   449"
+  },
+  {
+    "objectID": "carnet/package_prenoms.html#la-popularité-des-prénoms-de-ma-famille-entre-1980-et-2020",
+    "href": "carnet/package_prenoms.html#la-popularité-des-prénoms-de-ma-famille-entre-1980-et-2020",
+    "title": "Le package prenoms",
+    "section": "La popularité des prénoms de ma famille entre 1980 et 2020",
+    "text": "La popularité des prénoms de ma famille entre 1980 et 2020\n\n\nCode\nfamily &lt;- prenoms %&gt;%\n  filter(\n    name == \"Marc-Andre\" & sex == \"M\" |\n    name == \"Laurent\" & sex == \"M\" |\n    name == \"Melanie\" & sex == \"F\" |\n    name == \"Anna\" & sex == \"F\"\n  ) %&gt;%\n  group_by(name, year, sex) %&gt;%\n  summarise(n = sum(n)) %&gt;%\n  arrange(year)\n  \n\nggplot(data = family, aes(x = year, y = n, color = name))+\n  geom_line()+\n  scale_x_continuous( breaks = seq(1980, 2020, by = 5))"
+  },
+  {
+    "objectID": "carnet/2020-09-14-les-plateformes-d-évaluation-en-ligne.html",
+    "href": "carnet/2020-09-14-les-plateformes-d-évaluation-en-ligne.html",
+    "title": "Les plateformes d’évaluation en ligne",
+    "section": "",
+    "text": "Ce billet a été publié sur le site du GRIÉMÉtic pour permettre d’offrir une banque de ressources à divers intervenants des milieux secondaire, collégial et universitaire. Cette banque contient de nombreuses méthodes et instruments d’évaluation pour un contexte d’enseignement et d’évaluation à distance.\nSuite à l’épidémie de Covid-19, les enseignants.es se sont retrouvés à devoir modifier de façon profonde leurs méthodes d’enseignement. De plus, ils et elles ont dus réfléchir à la manière d’évaluer leurs étudiants.es à distance. Nous voulons dans ce bref article tenter de débroussailler et de préciser les avantages et inconvénients d’évaluer nos étudiants.es en ligne, de manière asynchrone ou pas. Cet article ne présume pas faire un tour d’horizon exhaustif des possibilités de l’évaluation en ligne, mais plutôt permettre de démontrer les possibilités, les avantages et aussi les défauts des outils d’évaluation en ligne.\nNous discutons dans cet article de plateformes qui permettent une évaluation qui se rapproche le plus possible d’une évaluation traditionnelle. Nous omettons donc les options qui permettent simplement des questions de types choix de réponses ou réponses courtes (par exemple Google Forms, Microsoft Forms, etc.). Nous discuterons de plateformes permettant d’évaluer des questions de types réponses longues, réponses sous forme de textes, réponses sous forme de calculs, etc. Les deux plateformes utilisées par l’auteur sont:\nCes deux plateformes ont des fonctionnalités très similaires et nous présenterons les grandes étapes qu’un évaluateur doit faire pour partir d’une évaluation traditionnelle et finir avec une évaluation en ligne."
+  },
+  {
+    "objectID": "carnet/2020-09-14-les-plateformes-d-évaluation-en-ligne.html#la-création-dune-évaluation",
+    "href": "carnet/2020-09-14-les-plateformes-d-évaluation-en-ligne.html#la-création-dune-évaluation",
+    "title": "Les plateformes d’évaluation en ligne",
+    "section": "La création d’une évaluation",
+    "text": "La création d’une évaluation\nNous prenons pour acquis que le cours dont l’évaluation fait partie a été créé. Les étudiants.es ont été inscrits et ajoutés à ce cours et les membres de l’équipe enseignante ont eux aussi été ajoutés. En effet, il est habituellement possible d’être plusieurs évaluateurs pour une même évaluation ou pour un même cours.\nL’évaluation peut être créée pour tous les étudiants d’un cours ou alors pour seulement certains d’entre eux. Il est possible de créer des évaluations distinctes pour diverses équipes par exemple. La manière la plus simple de créer une évaluation en ligne est de téléverser l’évaluation habituelle «version papier», sous format Pdf Ou Word par exemple. Si vous avez peu d’expérience avec ces technologies, c’est un excellent moyen de débuter avec un travail minimal.\nPar contre, il est plus versatile de créer une évaluation et d’ajouter des questions directement sur la plateforme. Ceci permet d’utiliser la versatilité du web, car les évaluations sont accessibles par n’importe quel fureteur internet. C’est un avantage pour vous et vos étudiants.es car ces plateformes n’utilisent pas de logiciel que vous auriez à télécharger. Elles sont accessibles directement de votre fureteur internet, de la même façon que vous accéderiez à YouTube par exemple. Les étudiants.es peuvent même utiliser leur téléphone intelligent pour y accéder.\n\nLa création des questions\nPour les utilisateurs débutants, la création d’une question est un processus simple où il suffit d’écrire le texte de la question et de lui associer une pondération. Il est habituellement possible de créer plusieurs types de questions: choix de réponses, réponses courtes, réponses longues, etc. Il est par contre possible d’obtenir davantage de possibilités en utilisant les fonctions plus avancées de ces plateformes, même si ce n’est pas obligatoire.\n\nPour les utilisateurs plus avancés\nCes deux plateformes permettent l’utilisation d’un langage de balisage léger appelé Markdown. Celui-ci permet de modifier le formatage du texte, d’ajouter des hyperliens, des images, etc. Le tableau ci-dessous présente quelques possibilités de ce langage.\n\n\n\nMarkdown\nRésultat\n\n\n\n\n*italique*\nitalique\n\n\n**gras**\ngras\n\n\n[GRIÉMÉtic](http://griemetic.ca/fr/)\nGRIÉMÉtic\n\n\n![Logo GRIÉMÉtic](http://griemetic.ca/wp-content/uploads/2017/10/cropped-Griemetic_Bleu-e1508594133153-3.png)\n\n\n\n\nPour avoir une idée des possibilités de ce langage, le markdown guide contient la liste de presque toutes les possibilités de ce langage. L’intérêt de ce langage est sa syntaxe simple, le fait qu’ils soit interprétable en fichier texte et ouvert et donc gratuit et accessible pour tous.\nIl est aussi habituellement possible d’utiliser le langage LaTeX par l’entremise de MathJax, ce qui permet d’écrire des expressions mathématiques dans les questions mais aussi dans la rétroaction et la correction des copies. Ce genre d’expression peut être créé en encadrant les formules LaTeX entre un ou deux signes de dollars. Par exemple, la formule suivante $\\zeta (s) = \\sum_{n=1}^\\infty \\frac{1}{n^s}$ sera interprétée et vue par les étudiants.es comme ceci \\(\\zeta (s) = \\sum_{n=1}^\\infty \\frac{1}{n^s}\\) dans le document final.\n\n\n\nComment les étudiants.es remettent leurs évaluations?\nLes étudiants peuvent faire leur évaluation sur papier, à l’aide de Word ou Google Docs. Chaque question possède sa propre fenêtre de téléversement, il est donc préférable de compléter chaque question sur une page distincte. Les étudiants.es doivent sauver, scanner ou photographier leur évaluation. Il suffit ensuite de téléverser ces documents dans les zones de téléversement appropriées.\nSi vous êtes débutants et avez par exemple créé une seule question pour votre évaluation (ce que je ne vous conseille pas!), les étudiants pourraient téléverser plusieurs fichiers qui contiendraient leurs démarches complètes. Si vous décidez de scinder votre examen en plusieurs questions, ceci vous permettra de ne corriger qu’une seule question à la fois, pour tous vos étudiants.es.\n\n\nLa distribution de l’évaluation aux étudiants.es\nUne fois l’évaluation terminée, il est possible de l’envoyer en un seul clic aux étudiants.es, qui la recevront à leur adresse courriel. Un temps peut être imparti pour l’exécution de l’évaluation. Bien sûr, le plus grand problème de ce genre d’évaluation est qu’il est difficile, voire impossible de contrer le plagiat. Les étudiants.es peuvent se trouver à n’importe quel endroit, recevoir l’aide de n’importe qui, peuvent avoir accès à leur notes, à leurs livres, etc.\nUne fois les évaluations présentes sur la plateforme, tous les évaluateurs peuvent corriger les questions qui leur sont attitrées au même moment, à l’endroit qui leur convient. Il n’est plus nécessaire de partager les copies physiques des évaluations et d’attendre qu’un des évaluateurs ait terminé pour qu’un autre continue le travail. Pour une personne seule, la flexibilité de pouvoir corriger à n’importe quel moment, n’importe où, une seule sous-question sans avoir à gérer une pile de copies est un immense avantage."
+  },
+  {
+    "objectID": "carnet/2020-09-14-les-plateformes-d-évaluation-en-ligne.html#les-outils-dévaluation",
+    "href": "carnet/2020-09-14-les-plateformes-d-évaluation-en-ligne.html#les-outils-dévaluation",
+    "title": "Les plateformes d’évaluation en ligne",
+    "section": "Les outils d’évaluation",
+    "text": "Les outils d’évaluation\nComme indiqué précédemment, pour chacune des questions, les étudiants.es devront envoyer une photo (ou un scan ou un fichier) de leur travail. Ceci simplifie la tâche de l’évaluateur car il peut se concentrer sur une seule et même question pour tous les étudiants.es, sans connaître le reste de leur évaluation ou leur identité. L’équité dans l’évaluation de tous les étudiants.es s’en trouve donc grandement améliorée. De plus, il est possible de construire, de maintenir et d’appliquer une même grille d’évaluation pour une même question, applicable par tous les membres de l’équipe d’évaluation.\nPlusieurs outils sont à notre disposition pour évaluer une question. Il est possible d’ajouter des commentaires. Ces commentaires supportent habituellement le Markdown et LaTeX, ce qui donne une flexibilité extraordinaire à l’évaluateur. Ces commentaires sont enregistrés, réutilisables et modifiables par tous les évaluateurs. Il est donc possible de donner des rétroactions extrêmement précises pour donner aux étudiants.es les raisons exactes pour lesquelles des points ont été ajoutés ou déduits. Sur une évaluation habituelle sur papier, il peut devenir long et difficile de réutiliser le même commentaire à plusieurs reprises. Les rétroactions en souffrent donc. Sur une plateforme d’évaluation en ligne, il est possible de réutiliser à l’infini un commentaire.\nMais il y a plus, ces commentaires peuvent être accompagnés d’une pondération. Un commentaire peut donc ajouter ou enlever des points selon la situation. Mais puisque ces commentaires sont modifiables, il est possible, à tout moment, de modifier une pondération si l’évaluateur avait mal évalué celle-ci. La plupart des évaluateurs vous le diront, il peut arriver de devoir modifier la pondération de plusieurs copies suite à une réévaluation de la pondération. Sur les versions papiers, le travail consiste à revoir toutes les copies où un changement peut être envisagé et d’ensuite faire les modifications. Sur une plateforme en ligne, le changement de pondération ou la modification d’une rétroaction se fait à un seul endroit et ces modifications sont ensuite automatiquement appliquées pour toutes les évaluations concernées.\nIl est également possible d’écrire ou de dessiner (préférablement avec un stylet, mais la souris est une alternative possible) directement sur la copie. L’utilisation de symboles divers est habituellement possible, comme le crochet, la croix, le point d’interrogation, etc.\n\nL’IA\nSur certaines plateformes, il est parfois possible d’utiliser l’IA (ou Intelligence Artificielle), pour regrouper les réponses semblables en blocs, blocs qui pourront être évalués un à un. Ceci permet de diminuer les redondances dans la correction, de sauver du temps et de donner une rétroaction de grande qualité même pour un grand nombre d’étudiants.es. La technologie est par contre embryonnaire et ne s’applique qu’à un nombre restreint de situations. Par exemple des diagrammes simples de molécules ou des expressions mathématiques courtes."
+  },
+  {
+    "objectID": "carnet/2020-09-14-les-plateformes-d-évaluation-en-ligne.html#les-résultats-de-lévaluation",
+    "href": "carnet/2020-09-14-les-plateformes-d-évaluation-en-ligne.html#les-résultats-de-lévaluation",
+    "title": "Les plateformes d’évaluation en ligne",
+    "section": "Les résultats de l’évaluation",
+    "text": "Les résultats de l’évaluation\n\nRetourner les notes aux étudiants.es\nUne fois la correction terminée, il est possible d’envoyer les notes aux étudiants.es, en un seul clic. Il est également possible d’envoyer la copie annotée, contenant tous les commentaires, tous les symboles et toutes les pondérations ajoutées par les évaluateurs. Cette copie devient donc un outil précieux qui permet aux étudiants.es de comprendre très exactement leurs erreurs. Ceci permet également de simplifier le processus de révision de notes car il est habituellement possible de le faire par l’entremise de la plateforme choisie.\n\n\nAnalyser les notes\nPuisque chaque question peut être créée indépendamment, il est possible d’obtenir des statistiques précises sur chacune d’entres elles. Il devient ensuite simple de connaître la moyenne ou la médiane de chaque question, le nombre d’étudiants.es l’ayant réussie ou échouée, etc. Ces informations permettent de bonifier les évaluations et l’enseignement car elles montrent les forces et les faiblesses des étudiants.es."
+  },
+  {
+    "objectID": "articles/math_alpinisme.html",
+    "href": "articles/math_alpinisme.html",
+    "title": "Les mathématiques en alpinisme",
+    "section": "",
+    "text": "Les mathématiques en alpinisme\n\n\n\n\nRésumé\nCet article décrit deux applications des équations différentielles dans le contexte de l’escalade. La première de ces applications concerne le facteur de chute, qui indique que la force ressentie par un grimpeur qui tombe, soutenu par une corde élastique, est proportionnelle au facteur de chute, c’est-à-dire au rapport entre la hauteur tombée et la longueur totale de la corde. La seconde de ces applications concerne la forme des coinceurs mécaniques (ou coinceurs à cames), qui permettent de grimper à l’aide de fissures parallèles dans la roche, sans avoir à utiliser de pitons comme ancrage. Les deux applications discutées dans cet article peuvent être introduites dans un cours de calcul intégral au niveau collégial. Elles permettent de consolider les notions de résolution d’équations différentielles et indiquent, encore une fois, l’importance des mathématiques.\n PDF"
+  },
+  {
+    "objectID": "articles/formule_magique_volumes.html",
+    "href": "articles/formule_magique_volumes.html",
+    "title": "Formules magique pour volumes",
+    "section": "",
+    "text": "Formules magique pour volumes\n\n\n\n\nRésumé\nPour calculer le volume d’un prisme, d’une pyramide, d’un cylindre ou d’une sphère, on applique une formule adaptée à chacun des cas. Dans Formule magique… pour volumes, Marc-André Désautels montre que toutes ces formules font partie d’une même famille et peuvent toutes être déduites d’une même formule maîtresse.\n PDF\n Document source"
+  },
+  {
+    "objectID": "articles/chercher_trouver_aiguille_botte_foin.html",
+    "href": "articles/chercher_trouver_aiguille_botte_foin.html",
+    "title": "Comment chercher (et trouver) une aiguille dans une botte de foin.",
+    "section": "",
+    "text": "Comment chercher (et trouver) une aiguille dans une botte de foin.\n\n\n\n\nRésumé\nLe 17 janvier 1966, suite à un accident en vol, l’armée américaine perd une bombe à hydrogène au large des côtes espagnoles, à proximité de Palomares. Le 22 mai 1968, le sous-marin nucléaire USS Scorpion est perdu en mer avec 99 marins à bord. Le 12 septembre 1857, le navire SS Central America sombre au fond de l’océan en emportant avec lui une cargaison de près de 11 tonnes d’or. Dans cet article, nous reviendrons brièvement sur l’historique de ces trois situations et sur les mathématiques qui ont permis aux personnes concernées de retrouver la bombe, le sous-marin et le trésor.\n PDF"
+  },
+  {
+    "objectID": "articles/bidonvilles.html",
+    "href": "articles/bidonvilles.html",
+    "title": "Améliorer l’accessibilité au coeur des bidonvilles",
+    "section": "",
+    "text": "Améliorer l’accessibilité au coeur des bidonvilles\n\n\n\n\nRésumé\nLe Programme des Nations unies pour les établissements humains décrit un bidonville comme la partie défavorisée d’une ville caractérisée par des logements très insalubres et construits par les habitants avec des matériaux de récupérations, une grande pauvreté et sans aucun droit ou sécurité foncière. La plupart des habitants des bidonvilles n’ont pas accès à l’eau potable, ni aux égouts. Plusieurs résidences de bidonvilles n’ont pas d’adresse et ne peuvent pas être facilement rejointes par un véhicule, ce qui rend difficile l’accès aux services médicaux et aux services d’incendie.\n PDF\n Document source"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "À propos",
+    "section": "",
+    "text": "Marc-André Désautels est détenteur d’un baccalauréat en mathématiques et physique ainsi que d’une maîtrise en mathématiques appliquées de l’Université de Montréal. Il a travaillé sur la détection de contours dans des images médicales à l’aide des méthodes iso-niveaux et des ondelettes. Il enseigne les mathématiques au cégep Saint-Jean-sur-Richelieu depuis 2002 et est l’auteur de deux livres de mathématiques au niveau collégial."
+  },
+  {
+    "objectID": "about.html#intérêts",
+    "href": "about.html#intérêts",
+    "title": "À propos",
+    "section": "Intérêts",
+    "text": "Intérêts\nEnseignement des mathématiques Applications des mathématiques Vulgarisation mathématiques"
+  },
+  {
+    "objectID": "about.html#éducation",
+    "href": "about.html#éducation",
+    "title": "À propos",
+    "section": "Éducation",
+    "text": "Éducation\nMSc en mathématiques appliquées, 2002 Université de Montréal\nBSc en mathématiques-physique, 2000 Université de Montréal"
+  },
+  {
+    "objectID": "articles/algorithme_cordic.html",
+    "href": "articles/algorithme_cordic.html",
+    "title": "L’algorithme CORDIC",
+    "section": "",
+    "text": "L’algorithme CORDIC\n\n\n\n\nRésumé\nCet article décrit un algorithme pour le calcul de certaines fonctions élémentaires telles que le sinus, le cosinus, la tangente et l’arctangente. Cet algorithme est celui utilisé par les calculatrices. Le principe de cet algorithme est l’utilisation de rotations dans un système de coordonnées circulaires. Les seules opérations nécessaires à l’exécution de l’algorithme sont l’addition, la soustraction, la recherche dans une table et le déplacement d’une virgule dans la représentation d’un nombre en virgule flottante.\n PDF"
+  },
+  {
+    "objectID": "articles/char_assaut_allemand.html",
+    "href": "articles/char_assaut_allemand.html",
+    "title": "Le problème du char d’assaut allemand.",
+    "section": "",
+    "text": "Le problème du char d’assaut allemand.\n\n\n\n\nRésumé\nDurant la Seconde Guerre mondiale, les Alliés avaient un besoin criant d’estimer avec précision la quantité de matériel militaire que l’Allemagne nazie produisait. Les estimations provenant des services de renseignements habituels étaient contradictoires et incertaines. Les gouvernements britanniques et américains se tournèrent donc vers des statisticiens pour savoir si leurs estimations pouvaient être améliorées. Nous présenterons une introduction aux notions mathématiques utilisées.\n PDF"
+  },
+  {
+    "objectID": "articles/formule_lacets_souliers.html",
+    "href": "articles/formule_lacets_souliers.html",
+    "title": "La formule des lacets de souliers",
+    "section": "",
+    "text": "La formule des lacets de souliers\n\n\n\n\nRésumé\nComment faire pour trouver l’aire d’un polygone simple ? Pour calculer l’aire de la figure ci-contre, où tous les sommets sont à coordonnées entières, on peut utiliser la formule de Pick. Lorsque certains des sommets ne sont pas à coordonnées entières, on a recours à la formule des lacets de souliers.\n PDF\n Document source"
+  },
+  {
+    "objectID": "articles/mais_ou_sont_trous_balles.html",
+    "href": "articles/mais_ou_sont_trous_balles.html",
+    "title": "Mais où sont les trous de balles?",
+    "section": "",
+    "text": "Mais où sont les trous de balles?\n\n\n\n\nRésumé\nAbraham Wald, surtout connu pour son invention de l’analyse séquentielle, a été un des membres du Statistical Research Group (SRG) qui a été créé de 1942 à 1945 pour aider dans l’effort de guerre. Nous discuterons du travail de Wald concernant le biais de l’armée américaine dans certaines de ses décisions et nous discuterons de la façon dont il s’y est pris pour estimer les probabilités qu’un avion de guerre criblé de balles revienne (ou pas!) du théâtre des opérations.\n PDF"
+  },
+  {
+    "objectID": "articles.html",
+    "href": "articles.html",
+    "title": "Articles",
+    "section": "",
+    "text": "La formule des lacets de souliers\n\n\nLa formule des lacets de souliers\n\n\n\n\n\n1 févr. 2024\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nAméliorer l’accessibilité au coeur des bidonvilles\n\n\nAméliorer l’accessibilité au coeur des bidonvilles\n\n\n\n\n\n1 sept. 2023\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nMais où sont les trous de balles?\n\n\nMais où sont les trous de balles?\n\n\n\n\n\n1 sept. 2023\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nLes mathématiques en alpinisme\n\n\nLes mathématiques en alpinisme\n\n\n\n\n\n1 sept. 2023\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nFormules magique pour volumes\n\n\nFormules magique pour volumes\n\n\n\n\n\n1 août 2020\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nLe problème du char d’assaut allemand.\n\n\nLe problème du char d’assaut allemand.\n\n\n\n\n\n1 mai 2019\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nComment chercher (et trouver) une aiguille dans une botte de foin.\n\n\nComment chercher (et trouver) une aiguille dans une botte de foin.\n\n\n\n\n\n1 sept. 2018\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nL’algorithme CORDIC\n\n\nL’algorithme CORDIC\n\n\n\n\n\n1 déc. 2015\n\n\nÉric Brunelle et Marc-André Désautels\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "carnet/package_onbabynames.html",
+    "href": "carnet/package_onbabynames.html",
+    "title": "Le package onbabynames",
+    "section": "",
+    "text": "Mon deuxième package, onbabynames, vient tout juste d’arriver sur CRAN. Le package est en fait une base de données de tous les prénoms donnés aux enfants en Ontario entre 1917 et 2018. Les prénoms donnés moins de 5 fois ont été enlevés de la base de données pour conserver la confidentialité des données\nPour l’installer, rien de plus facile:\nCode\ninstall.packages(\"onbabynames\")\nVous pouvez ensuite l’utiliser comme ceci:\nCode\nlibrary(onbabynames)\nNous allons utiliser le package tidyverse pour visualiser les données:\nCode\n# install.packages(\"tidyverse\") si le package n'est pas encore installé\nlibrary(tidyverse)\nUne base de données sous la forme d’un tibble sera maintenant accessible sous le noms de onbabynames.\nCode\nglimpse(onbabynames)\n\n\nRows: 161,703\nColumns: 4\n$ year &lt;int&gt; 1913, 1913, 1914, 1914, 1914, 1915, 1915, 1915, 1915, 1915, 1916,…\n$ sex  &lt;chr&gt; \"F\", \"F\", \"F\", \"F\", \"F\", \"F\", \"F\", \"F\", \"F\", \"F\", \"F\", \"F\", \"F\", …\n$ name &lt;chr&gt; \"Margaret\", \"Mary\", \"Gladys\", \"Margaret\", \"Mary\", \"Dorothy\", \"Mar…\n$ n    &lt;int&gt; 6, 7, 6, 9, 9, 9, 13, 10, 7, 7, 6, 8, 10, 6, 14, 12, 12, 7, 89, 6…\nCode\nonbabynames\n\n\n# A tibble: 161,703 × 4\n    year sex   name         n\n   &lt;int&gt; &lt;chr&gt; &lt;chr&gt;    &lt;int&gt;\n 1  1913 F     Margaret     6\n 2  1913 F     Mary         7\n 3  1914 F     Gladys       6\n 4  1914 F     Margaret     9\n 5  1914 F     Mary         9\n 6  1915 F     Dorothy      9\n 7  1915 F     Margaret    13\n 8  1915 F     Marie       10\n 9  1915 F     Mary         7\n10  1915 F     Ruth         7\n# ℹ 161,693 more rows"
+  },
+  {
+    "objectID": "carnet/package_onbabynames.html#les-5-prénoms-masculins-les-plus-populaires-en-2018",
+    "href": "carnet/package_onbabynames.html#les-5-prénoms-masculins-les-plus-populaires-en-2018",
+    "title": "Le package onbabynames",
+    "section": "Les 5 prénoms masculins les plus populaires en 2018",
+    "text": "Les 5 prénoms masculins les plus populaires en 2018\n\n\nCode\nonbabynames %&gt;% \n  filter(year == 2018 & sex == \"M\") %&gt;% \n  arrange(desc(n)) %&gt;% \n  head(5)\n\n\n# A tibble: 5 × 4\n   year sex   name         n\n  &lt;int&gt; &lt;chr&gt; &lt;chr&gt;    &lt;int&gt;\n1  2018 M     Liam       795\n2  2018 M     Noah       787\n3  2018 M     Lucas      671\n4  2018 M     William    660\n5  2018 M     Benjamin   643"
+  },
+  {
+    "objectID": "carnet/package_onbabynames.html#les-5-prénoms-féminins-les-plus-populaires-en-2018",
+    "href": "carnet/package_onbabynames.html#les-5-prénoms-féminins-les-plus-populaires-en-2018",
+    "title": "Le package onbabynames",
+    "section": "Les 5 prénoms féminins les plus populaires en 2018",
+    "text": "Les 5 prénoms féminins les plus populaires en 2018\n\n\nCode\nonbabynames %&gt;% \n  filter(year == 2018 & sex == \"F\") %&gt;% \n  arrange(desc(n)) %&gt;% \n  head(5)\n\n\n# A tibble: 5 × 4\n   year sex   name          n\n  &lt;int&gt; &lt;chr&gt; &lt;chr&gt;     &lt;int&gt;\n1  2018 F     Olivia      863\n2  2018 F     Emma        686\n3  2018 F     Charlotte   682\n4  2018 F     Amelia      560\n5  2018 F     Ava         559"
+  },
+  {
+    "objectID": "carnet/package_onbabynames.html#lévolution-de-la-popularité-des-cinq-prénoms-féminins-les-plus-populaires-en-218",
+    "href": "carnet/package_onbabynames.html#lévolution-de-la-popularité-des-cinq-prénoms-féminins-les-plus-populaires-en-218",
+    "title": "Le package onbabynames",
+    "section": "L’évolution de la popularité des cinq prénoms féminins les plus populaires en 218",
+    "text": "L’évolution de la popularité des cinq prénoms féminins les plus populaires en 218\n\n\nCode\ngirls2018 &lt;- onbabynames %&gt;%\n    filter(year == 2018 & sex == \"F\") %&gt;%\n    arrange(desc(n)) %&gt;%\n    select(name) %&gt;%\n    head(5)\n\nonbabynames %&gt;%\n    filter(name %in% girls2018$name) %&gt;%\n    ggplot(aes(x = year, y = n, color = name)) +\n    geom_line()"
+  },
+  {
+    "objectID": "carnet.html",
+    "href": "carnet.html",
+    "title": "Carnet",
+    "section": "",
+    "text": "Le package onbabynames\n\n\nLe package onbabynames\n\n\n\n\n\n4 mai 2021\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nLe package prenoms\n\n\nLe package prenoms\n\n\n\n\n\n27 avr. 2021\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nLes plateformes d’évaluation en ligne\n\n\nLes plateformes d’évaluation en ligne\n\n\n\n\n\n14 sept. 2020\n\n\nMarc-André Désautels\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "presentations/char_assaut_allemand.html",
+    "href": "presentations/char_assaut_allemand.html",
+    "title": "Le problème du char d’assaut allemand",
+    "section": "",
+    "text": "Résumé\nDurant la seconde guerre mondiale, les alliés avaient un besoin criant d’estimer avec précision la quantité de matériel militaire que l’Allemagne nazie produisait. Les estimations provenant des services de renseignements habituels étaient contradictoires et incertaines. Les gouvernements Britanniques et Américains se tournèrent donc vers des statisticiens pour savoir si leurs estimations pouvaient être améliorées. Nous présenterons une introduction aux notions mathématiques utilisées et nous utiliserons ces notions pour estimer la production du modèle 3 de Tesla.\n Consulter la présentation"
+  },
+  {
+    "objectID": "presentations/comment_gagner_argent.html",
+    "href": "presentations/comment_gagner_argent.html",
+    "title": "Comment gagner de l’argent sans se fatiguer?",
+    "section": "",
+    "text": "Résumé\nAu début des années 2000, la Michigan State Lottery crée une nouvelle loterie, CashWinFall. En raison d’un mécanisme nouveau ayant pour but d’inciter davantage de gens à jouer à cette lotterie, deux groupes de personnes se mettent à acheter des dizaines de milliers de billets. Mais pourquoi ces deux groupes ont-ils achetés autant de billets? Nous verrons que le mécanisme nouveau de cette loterie signifiait qu’à certains moments, acheter un billet impliquait une espérance mathématique positive! Donc, si vous achetiez beaucoup (beaucoup!) de billets pour des tirages précis, vous alliez probablement faire de gros profits, sans vous fatiguer (en fait, c’est plus fatiguant qu’on pense!). Nous expliquerons comment ce mécanisme nouveau permettait de gagner de l’argent à certaines périodes, les tactiques différentes employées par ces deux groupes d’investisseurs et de quelle manière il est possible de diminuer la variance des résultats. Serez-vous les prochains millionnaires?\n Consulter la présentation"
+  },
+  {
+    "objectID": "presentations/imprimer_3d.html",
+    "href": "presentations/imprimer_3d.html",
+    "title": "Comment utiliser les mathématiques… pour imprimer en 3D?",
+    "section": "",
+    "text": "Résumé\nNous entendons de plus en plus parler de la future révolution de l’impression 3D. Elle est utilisée dans des domaines aussi variés que le prototypage, l’aéronautique, la construction, la biologie, l’alimentation, etc. Dans cette conférence, nous voulons présenter les grandes idées mathématiques soustendant le procédé de l’impression 3D. En passant par l’algèbre linéaire, les structures d’arbres, la construction géométrique de solides et quelques algorithmes importants, nous esquisserons les difficultés devant être surmontées lors de l’impression. Les mathématiques présentées sont simples et de niveau collégial, ne faisant appel qu’à des idées simples d’algèbre linéaire et de théorie des ensembles. L’intérêt de la conférence n’est pas dans l’apprentissage de nouvelles notions mathématiques, mais plutôt dans l’application de ces notions à un problème bien réel.\n Consulter la présentation"
+  },
+  {
+    "objectID": "presentations/machines_perdent_le_nord.html",
+    "href": "presentations/machines_perdent_le_nord.html",
+    "title": "Les machines perdent le nord",
+    "section": "",
+    "text": "Résumé\nBienvenue à tous les fans de maths, de zéros et de uns! Préparez-vous à plonger dans l’univers fascinant (parfois drôle, parfois tragique) des erreurs mathématiques qui jalonnent notre quotidien. Aujourd’hui, je vais vous emmener dans un voyage à travers les méandres de l’informatique pour découvrir les célèbres « erreurs de débordement ». Imaginez un instant que votre calculatrice décide de faire une petite sieste et se trompe en comptant – c’est un peu ce qui se passe quand un ordinateur est confronté à un débordement. Un débordement, c’est quand les nombres deviennent trop grands pour le petit cerveau de votre machine. C’est comme essayer de mettre 11 litres d’eau dans un seau de 10 litres – ça déborde, et ça fait des bêtises ! Nous explorerons quelques exemples croustillants où ces erreurs ont causé des catastrophes mémorables (et parfois cocasses). Des jeux vidéo qui partent en vrille, des machines à radiation qui perdent le Nord, le bug de l’an 2000 et j’en passe. Alors, préparez-vous à rire, à apprendre, et peut-être à regarder votre ordinateur avec un tout petit peu plus de méfiance. Car après tout, même les machines les plus intelligentes peuvent avoir un petit bug dans le système! Au plaisir de vous voir au congrès, avec vos zéros et vos uns bien alignés!\n Consulter la présentation"
+  },
+  {
+    "objectID": "presentations/perdus_dans_espace.html",
+    "href": "presentations/perdus_dans_espace.html",
+    "title": "Perdus dans l’espace",
+    "section": "",
+    "text": "Résumé\nLe « Sloan Digital Sky Survey » est une immense base de données qui se veut être un atlas du ciel étoilé. Si vous prenez une photo du ciel, comment est-il possible de chercher dans cet atlas et de retrouver la vue présentée dans votre photo? Pourquoi voudrait-on être en mesure de faire ça et comment le faire seront quelques-unes des notions que nous aborderons.\n Consulter la présentation"
+  },
+  {
+    "objectID": "presentations/trois_applications_meconnues_sn.html",
+    "href": "presentations/trois_applications_meconnues_sn.html",
+    "title": "Trois applications méconnues pour sciences de la nature",
+    "section": "",
+    "text": "Résumé\nNous présentons trois applications méconnues pouvant être utilisées dans les cours de mathématiques obligatoires de sciences de la nature au collégial.\n Consulter la présentation"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Présentations",
+    "section": "",
+    "text": "SPHINCS+\n\n\nComment vérifier qu’un document numérique provient bien de son auteur et qu’il n’a pas été modifié?\n\n\n\n\n\n16 oct. 2026\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\n1/√x, mais genre… vraiment vite\n\n\nVenez découvrir l’un des algorithmes les plus mythiques, mystérieux et franchement génial de l’histoire de la programmation, le Fast Inverse Square Root.\n\n\n\n\n\n25 oct. 2025\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nLes machines perdent le nord\n\n\nLes machines perdent le Nord\n\n\n\n\n\n19 oct. 2024\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nPerdus dans l’espace\n\n\nPerdus dans l’espace.\n\n\n\n\n\n14 oct. 2023\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nComment utiliser les mathématiques… pour imprimer en 3D?\n\n\nComment utiliser les mathématiques… pour imprimer en 3D?\n\n\n\n\n\n19 oct. 2022\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nComment gagner de l’argent sans se fatiguer?\n\n\nComment gagner de l’argent sans se fatiguer?\n\n\n\n\n\n16 oct. 2021\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nLa falaise de la mort… ou les mathématiques en alpinisme\n\n\nLa falaise de la mort… ou les mathématiques en alpinisme\n\n\n\n\n\n10 oct. 2020\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nMais où sont les trous de balles?\n\n\nMais où sont les trous de balles?\n\n\n\n\n\n19 oct. 2019\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nLe problème du char d’assaut allemand\n\n\nLe problème du char d’assaut allemand\n\n\n\n\n\n13 oct. 2018\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nComment chercher (et trouver) une aiguille dans une botte de foin?\n\n\nComment chercher (et trouver) une aiguille dans une botte de foin?\n\n\n\n\n\n14 oct. 2017\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nOù suis-je? Le positionnement GPS dans la classe d’algèbre linéaire\n\n\nOù suis-je? Le positionnement GPS dans la classe d’algèbre linéaire\n\n\n\n\n\n15 oct. 2016\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nTrois applications méconnues pour sciences de la nature\n\n\nTrois applications méconnues pour sciences de la nature\n\n\n\n\n\n4 oct. 2014\n\n\nMarc-André Désautels\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "projets/suite_fibonacci.html",
+    "href": "projets/suite_fibonacci.html",
+    "title": "La suite de Fibonacci",
+    "section": "",
+    "text": "Fibonacci\n\n\n\nVoici les documents utilisés dans la présentation sur la suite de Fibonacci:\n\nLa présentation sous format PowerPoint.\n\nLa présentation sous format PDF.\n\nLe document sous format PDF utilisé pour calculer quelques termes de la suite de Fibonacci."
+  },
+  {
+    "objectID": "projets.html",
+    "href": "projets.html",
+    "title": "Projets",
+    "section": "",
+    "text": "Le ruban de Moebius\n\n\nUne présentation de niveau primaire du ruban de Moebius.\n\n\n\n\n\n3 avr. 2019\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nLa suite de Fibonacci\n\n\nUne présentation de niveau primaire de la suite de Fibonacci.\n\n\n\n\n\n3 avr. 2019\n\n\nMarc-André Désautels\n\n\n\n\n\n\n\n\n\n\n\n\nLe théorème des quatres couleurs\n\n\nLe théorème des quatres couleurs\n\n\n\n\n\n3 avr. 2019\n\n\nMarc-André Désautels\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "publications/calcul_integral.html",
+    "href": "publications/calcul_integral.html",
+    "title": "Calcul intégral",
+    "section": "",
+    "text": "Calcul intégral\n\n\n\n\nRésumé\nPar sa démarche rigoureuse, Calcul intégral permet aux étudiants de faire l’apprentissage de techniques de résolution en les appliquant à des situations réelles. Cette application constante des notions théoriques sur des exemples concrets incite le développement d’une approche intuitive à la résolution de problème.\n Pour vous procurer le livre\n\nLe premier chapitre effectue un retour sur les notions vues dans Calcul différentiel, il introduit aussi la règle de L’Hospital et la notion de différentielle\nChaque chapitre suivant présente les notions clés à l’aide d’applications concrètes et de nombreux exemples\nDes techniques de calcul sont appliquées à la résolution d’équations différentielles tout au long du manuel\nUne nouvelle approche pour l’étude des séries qui met l’accent sur les séries de Taylor\nFait de nombreux liens sur l’application de diverses notions mathématiques dans les sciences de la nature et les sciences humaines\nDes annexes pratiques sur les théorèmes d’analyse, l’application du calcul intégral en sciences humaines et l’utilisation de logiciels de calcul symbolique (comme Maxima ou Maple) pour la résolution de problèmes\n\nEn plus de vous permettre de gérer vos groupes d’étudiants, le complément pédagogique en ligne CEC Plus offre le solutionnaire des exercices et des annexes du manuel. Le CEC Plus est offert gratuitement sur adoption de la collection.\nSur adoption de la collection, la version numérique pour l’enseignant de Calcul Intégral vous est offerte gratuitement sur maZoneCEC, une zone multiplateformes accessible à partir d’un PC, d’un Mac ou des tablettes iPad et Android. Elle vous permet :\n\nde projeter et de feuilleter les pages de l’ouvrage en classe;\nd’annoter l’ouvrage au crayon et au marqueur;\nde sauvegarder vos notes personnelles;\nd’insérez vos propres liens Internet au fil des pages."
+  }
+]

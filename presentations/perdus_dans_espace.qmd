@@ -1,0 +1,15 @@
+---
+title: "Perdus dans l'espace"
+date: "2023-10-14"
+date-format: "YYYY-MM-DD"
+id: "presentations"
+author: "Marc-André Désautels"
+description: "Perdus dans l'espace."
+---
+
+
+### Résumé
+
+Le « Sloan Digital Sky Survey » est une immense base de données qui se veut être un atlas du ciel étoilé. Si vous prenez une photo du ciel, comment est-il possible de chercher dans cet atlas et de retrouver la vue présentée dans votre photo? Pourquoi voudrait-on être en mesure de faire ça et comment le faire seront quelques-unes des notions que nous aborderons.
+
+[<i class="bi bi-easel"></i> Consulter la présentation](/fichiers/LostInSpace.pptx){.btn .btn-primary target="_blank"}

@@ -1,0 +1,15 @@
+---
+title: "Comment utiliser les mathématiques... pour imprimer en 3D?"
+date: "2022-10-19"
+date-format: "YYYY-MM-DD"
+id: "presentations"
+author: "Marc-André Désautels"
+description: "Comment utiliser les mathématiques... pour imprimer en 3D?"
+---
+
+
+### Résumé
+
+Nous entendons de plus en plus parler de la future révolution de l’impression 3D. Elle est utilisée dans des domaines aussi variés que le prototypage, l’aéronautique, la construction, la biologie, l’alimentation, etc. Dans cette conférence, nous voulons présenter les grandes idées mathématiques soustendant le procédé de l’impression 3D. En passant par l’algèbre linéaire, les structures d’arbres, la construction géométrique de solides et quelques algorithmes importants, nous esquisserons les difficultés devant être surmontées lors de l’impression. Les mathématiques présentées sont simples et de niveau collégial, ne faisant appel qu’à des idées simples d’algèbre linéaire et de théorie des ensembles. L’intérêt de la conférence n’est pas dans l’apprentissage de nouvelles notions mathématiques, mais plutôt dans l’application de ces notions à un problème bien réel.
+
+[<i class="bi bi-easel"></i> Consulter la présentation](https://desautm.github.io/Imprimante3D/){.btn .btn-primary target="_blank"}

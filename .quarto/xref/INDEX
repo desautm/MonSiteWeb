@@ -1,0 +1,107 @@
+{
+  "index.qmd": {
+    "index.html": "3a2ffa4f"
+  },
+  "about.qmd": {
+    "about.html": "775d415e"
+  },
+  "presentations.qmd": {
+    "presentations.html": "f3126df2"
+  },
+  "projets.qmd": {
+    "projets.html": "b2f2a9cc"
+  },
+  "presentations/sphincs.qmd": {
+    "sphincs.html": "03871f02"
+  },
+  "presentations/inverse_sqrt.qmd": {
+    "inverse_sqrt.html": "682cb246"
+  },
+  "presentations/machines_perdent_le_nord.qmd": {
+    "machines_perdent_le_nord.html": "6818d50e"
+  },
+  "presentations/perdus_dans_espace.qmd": {
+    "perdus_dans_espace.html": "3601668b"
+  },
+  "presentations/imprimer_3d.qmd": {
+    "imprimer_3d.html": "22255bb8"
+  },
+  "presentations/char_assaut_allemand.qmd": {
+    "char_assaut_allemand.html": "35db4040"
+  },
+  "presentations/chercher_trouver_botte_foin.qmd": {
+    "chercher_trouver_botte_foin.html": "439d3128"
+  },
+  "presentations/comment_gagner_argent.qmd": {
+    "comment_gagner_argent.html": "aaf267dd"
+  },
+  "presentations/falaise_de_la_mort.qmd": {
+    "falaise_de_la_mort.html": "85abf15b"
+  },
+  "presentations/ou_suis_je_gps.qmd": {
+    "ou_suis_je_gps.html": "721d10b8"
+  },
+  "presentations/trois_applications_meconnues_sn.qmd": {
+    "trois_applications_meconnues_sn.html": "c79ce62e"
+  },
+  "presentations/trous_de_balles.qmd": {
+    "trous_de_balles.html": "d24c80f7"
+  },
+  "projets/suite_fibonacci.qmd": {
+    "suite_fibonacci.html": "7b0366b5"
+  },
+  "projets/ruban_moebius.qmd": {
+    "ruban_moebius.html": "19f1fe88"
+  },
+  "projets/theoreme_quatre_couleurs.qmd": {
+    "theoreme_quatre_couleurs.html": "46204292"
+  },
+  "articles.qmd": {
+    "articles.html": "974617d4"
+  },
+  "articles/formule_lacets_souliers.qmd": {
+    "formule_lacets_souliers.html": "a63fe283"
+  },
+  "articles/bidonvilles.qmd": {
+    "bidonvilles.html": "5a151d62"
+  },
+  "articles/mais_ou_sont_trous_balles.qmd": {
+    "mais_ou_sont_trous_balles.html": "90b9edba"
+  },
+  "articles/formule_magique_volumes.qmd": {
+    "formule_magique_volumes.html": "4211212c"
+  },
+  "articles/char_assaut_allemand.qmd": {
+    "char_assaut_allemand.html": "15cb16fc"
+  },
+  "articles/algorithme_cordic.qmd": {
+    "algorithme_cordic.html": "eec874e6"
+  },
+  "articles/chercher_trouver_aiguille_botte_foin.qmd": {
+    "chercher_trouver_aiguille_botte_foin.html": "2b5d7eb0"
+  },
+  "articles/math_alpinisme.qmd": {
+    "math_alpinisme.html": "35cba2b6"
+  },
+  "publications/calcul_differentiel_2e_edition.qmd": {
+    "calcul_differentiel_2e_edition.html": "61363909"
+  },
+  "publications.qmd": {
+    "publications.html": "546f3b84"
+  },
+  "publications/calcul_integral.qmd": {
+    "calcul_integral.html": "3674bd2c"
+  },
+  "carnet/2020-09-14-les-plateformes-d-évaluation-en-ligne.qmd": {
+    "2020-09-14-les-plateformes-d-évaluation-en-ligne.html": "443a8357"
+  },
+  "carnet.qmd": {
+    "carnet.html": "dd2c374f"
+  },
+  "carnet/package_prenoms.qmd": {
+    "package_prenoms.html": "19dff285"
+  },
+  "carnet/package_onbabynames.qmd": {
+    "package_onbabynames.html": "34ce3237"
+  }
+}

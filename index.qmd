@@ -1,0 +1,7 @@
+---
+title: "Marc-André Désautels"
+---
+
+Ceci est la page d'accueil du site web de Marc-André Désautels. Vous pouvez en apprendre davantage sur lui dans la section [À propos](about.qmd) et consulter ses [présentations](presentations.qmd).
+
+Pour en savoir plus sur les sites web Quarto, visitez <https://quarto.org/docs/websites>.

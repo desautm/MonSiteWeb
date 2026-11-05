@@ -1,0 +1,22 @@
+---
+title: "À propos"
+image: profile.jpg
+about:
+  template: jolla
+---
+
+Marc-André Désautels est détenteur d’un baccalauréat en mathématiques et physique ainsi que d’une maîtrise en mathématiques appliquées de l’Université de Montréal. Il a travaillé sur la détection de contours dans des images médicales à l’aide des méthodes iso-niveaux et des ondelettes. Il enseigne les mathématiques au cégep Saint-Jean-sur-Richelieu depuis 2002 et est l’auteur de deux livres de mathématiques au niveau collégial.
+
+## Intérêts
+
+Enseignement des mathématiques
+Applications des mathématiques
+Vulgarisation mathématiques
+
+## Éducation
+
+MSc en mathématiques appliquées, 2002
+*Université de Montréal*
+
+BSc en mathématiques-physique, 2000
+*Université de Montréal*

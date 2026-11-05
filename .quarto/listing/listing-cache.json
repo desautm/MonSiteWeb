@@ -1,0 +1,19 @@
+{
+  "listingMap": {
+    "articles.qmd": [
+      "articles/*.qmd"
+    ],
+    "carnet.qmd": [
+      "carnet"
+    ],
+    "presentations.qmd": [
+      "presentations"
+    ],
+    "projets.qmd": [
+      "projets"
+    ],
+    "publications.qmd": [
+      "publications"
+    ]
+  }
+}
