@@ -1,1 +1,1 @@
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://neon-klepon-ed64fd.netlify.app/sitemap.xml
